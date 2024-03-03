@@ -32,6 +32,7 @@ class MainActivity: AppCompatActivity(), HasSupportFragmentInjector {
     val fragmentManager = supportFragmentManager
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        System.out.println("Hello git")
         //ถ้าไม่ inject ที่ AppInjector ต้อง Inject ข้างล่าง
         //AndroidInjection.inject(this)
         homeFragment = HomeFragment.newInstance(null,null)
