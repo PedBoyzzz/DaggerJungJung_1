@@ -1,0 +1,367 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b6bd223ddde42434cb439e86dd0e6531/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a8dc7822b4307426ec6e987e00616d69/jetified-dagger-android-support-2.16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/98d167354f1f1bb8f346d5860ecf99d2/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7fc1130215035bd47717732a0cbcaedb/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7709397635bf531c032b9e045821be6e/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/2858dc87d536882b7ce2d0c3432787e4/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/6e4ef16bff30da752d117469acb2b752/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/21df66c2f1287679ee2ecc564f42aeb7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/af15b2e418ef416d92f24a6029db5328/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5a6dda69bad8b08d5ac8686eccd0c232/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7a35d87380094a93e31f6ba5aad7f666/jetified-rxandroid-2.0.2/AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b39fc881fb4794967ba3fa7be8b668fd/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/91d0696257afe8b7f200e32bf1b399b8/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/d9af2003fcd0edfe86caa49c53eb7179/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c989fbe44dcf04c156111176a5f9015d/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/23284d3c135d9d766d2a8359bbc41019/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f255fe8ccecf71d95ccfe75bf94f648e/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f06bd6a0b99b2e0713cf0dbcc9960ea0/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/991270ed3ba2ae951edc3999c77af6a9/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e0b92139b2321984b76e00827c371fa2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/899886e88bb807b0804094ff0b99cf58/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/4e85553ad7f022954e690b2079c5b117/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ae2e6465f7bb2141248baf44184b1748/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a11c2b0593e2ca8ce7ddd10c161d463a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/19ec473598a6f6d7f4d62efc6ed1911e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a6871a99251e7efef1777672915dd2c5/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/71e34b063ab4b0e5c76da68b892912e3/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b4c8ca22968d313177fdef70db1de490/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/17bfba7d55186255380d0c51b143b722/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ed1b39c309e0311b83d7bc1ce0f98992/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/bcae2fa5079a857dee7bd7a818182454/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/33aafebc2610aa0d9478d810b2f64ebe/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/cdcc4b88bd5ebe02ceda26a710a150bc/jetified-dagger-android-2.16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5dc6fecec2dff52c951f517070d366e6/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/16ab0ee3e14c8d596fb11c466c08c108/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/95eedd77fef20e37f269346f5f281953/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/989e44db8e0c2839fcfba5621961e487/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fdd0fbcaec32f125eb07972f8d8ff3de/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/546725bf75b083279b3735fdee89d5be/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/82b37c6911b02657f2263334c2dd10b6/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ec213cbba61c877efe3f02c14b2102ae/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8b898f73af073b9936e4d64fc5509840/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/44722418a0345d46805b7d3b482ca65b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8a68715f8817381a7e0eec47600851da/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7f1c75c2c6e82e3165441efe0150b83c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f0ce4721c6a41d5cc4a80041310020de/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/08d7e5672e836dc7183e4ece063a82b4/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/687d2ed291d0a0afc1f1bc57a30bd052/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8d813afdac7dc3bace10db1d2c0cb74d/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b6bd223ddde42434cb439e86dd0e6531/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b6bd223ddde42434cb439e86dd0e6531/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7fc1130215035bd47717732a0cbcaedb/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7fc1130215035bd47717732a0cbcaedb/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7709397635bf531c032b9e045821be6e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7709397635bf531c032b9e045821be6e/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5a6dda69bad8b08d5ac8686eccd0c232/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5a6dda69bad8b08d5ac8686eccd0c232/jetified-tensorflow-android-1.13.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c989fbe44dcf04c156111176a5f9015d/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c989fbe44dcf04c156111176a5f9015d/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/991270ed3ba2ae951edc3999c77af6a9/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/991270ed3ba2ae951edc3999c77af6a9/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e0b92139b2321984b76e00827c371fa2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e0b92139b2321984b76e00827c371fa2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/899886e88bb807b0804094ff0b99cf58/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/899886e88bb807b0804094ff0b99cf58/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ec213cbba61c877efe3f02c14b2102ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ec213cbba61c877efe3f02c14b2102ae/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:9:13-45
+	android:roundIcon
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:10:13-58
+	android:icon
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:8:13-47
+	android:allowBackup
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:7:13-39
+	android:theme
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:12:13-44
+	android:name
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:6:13-34
+activity#com.example.testkotloin.MainActivity
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:exported
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:48-71
+	android:name
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b6bd223ddde42434cb439e86dd0e6531/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b6bd223ddde42434cb439e86dd0e6531/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a8dc7822b4307426ec6e987e00616d69/jetified-dagger-android-support-2.16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a8dc7822b4307426ec6e987e00616d69/jetified-dagger-android-support-2.16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/98d167354f1f1bb8f346d5860ecf99d2/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/98d167354f1f1bb8f346d5860ecf99d2/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7fc1130215035bd47717732a0cbcaedb/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7fc1130215035bd47717732a0cbcaedb/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7709397635bf531c032b9e045821be6e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7709397635bf531c032b9e045821be6e/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/2858dc87d536882b7ce2d0c3432787e4/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/2858dc87d536882b7ce2d0c3432787e4/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/6e4ef16bff30da752d117469acb2b752/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/6e4ef16bff30da752d117469acb2b752/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/21df66c2f1287679ee2ecc564f42aeb7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/21df66c2f1287679ee2ecc564f42aeb7/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/af15b2e418ef416d92f24a6029db5328/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/af15b2e418ef416d92f24a6029db5328/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7a35d87380094a93e31f6ba5aad7f666/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7a35d87380094a93e31f6ba5aad7f666/jetified-rxandroid-2.0.2/AndroidManifest.xml:19:5-43
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b39fc881fb4794967ba3fa7be8b668fd/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b39fc881fb4794967ba3fa7be8b668fd/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/91d0696257afe8b7f200e32bf1b399b8/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/91d0696257afe8b7f200e32bf1b399b8/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/d9af2003fcd0edfe86caa49c53eb7179/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/d9af2003fcd0edfe86caa49c53eb7179/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c989fbe44dcf04c156111176a5f9015d/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c989fbe44dcf04c156111176a5f9015d/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/23284d3c135d9d766d2a8359bbc41019/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/23284d3c135d9d766d2a8359bbc41019/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f255fe8ccecf71d95ccfe75bf94f648e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f255fe8ccecf71d95ccfe75bf94f648e/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f06bd6a0b99b2e0713cf0dbcc9960ea0/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f06bd6a0b99b2e0713cf0dbcc9960ea0/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/991270ed3ba2ae951edc3999c77af6a9/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/991270ed3ba2ae951edc3999c77af6a9/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e0b92139b2321984b76e00827c371fa2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e0b92139b2321984b76e00827c371fa2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/899886e88bb807b0804094ff0b99cf58/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/899886e88bb807b0804094ff0b99cf58/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/4e85553ad7f022954e690b2079c5b117/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/niwat/.gradle/caches/transforms-2/files-2.1/4e85553ad7f022954e690b2079c5b117/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ae2e6465f7bb2141248baf44184b1748/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ae2e6465f7bb2141248baf44184b1748/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a11c2b0593e2ca8ce7ddd10c161d463a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a11c2b0593e2ca8ce7ddd10c161d463a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/19ec473598a6f6d7f4d62efc6ed1911e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/19ec473598a6f6d7f4d62efc6ed1911e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a6871a99251e7efef1777672915dd2c5/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/a6871a99251e7efef1777672915dd2c5/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/71e34b063ab4b0e5c76da68b892912e3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/71e34b063ab4b0e5c76da68b892912e3/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b4c8ca22968d313177fdef70db1de490/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b4c8ca22968d313177fdef70db1de490/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/17bfba7d55186255380d0c51b143b722/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/17bfba7d55186255380d0c51b143b722/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ed1b39c309e0311b83d7bc1ce0f98992/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ed1b39c309e0311b83d7bc1ce0f98992/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/bcae2fa5079a857dee7bd7a818182454/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/bcae2fa5079a857dee7bd7a818182454/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/33aafebc2610aa0d9478d810b2f64ebe/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/33aafebc2610aa0d9478d810b2f64ebe/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/cdcc4b88bd5ebe02ceda26a710a150bc/jetified-dagger-android-2.16/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/niwat/.gradle/caches/transforms-2/files-2.1/cdcc4b88bd5ebe02ceda26a710a150bc/jetified-dagger-android-2.16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5dc6fecec2dff52c951f517070d366e6/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/5dc6fecec2dff52c951f517070d366e6/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/16ab0ee3e14c8d596fb11c466c08c108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/16ab0ee3e14c8d596fb11c466c08c108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/95eedd77fef20e37f269346f5f281953/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/95eedd77fef20e37f269346f5f281953/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/989e44db8e0c2839fcfba5621961e487/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/989e44db8e0c2839fcfba5621961e487/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fdd0fbcaec32f125eb07972f8d8ff3de/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fdd0fbcaec32f125eb07972f8d8ff3de/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/546725bf75b083279b3735fdee89d5be/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/546725bf75b083279b3735fdee89d5be/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/82b37c6911b02657f2263334c2dd10b6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/82b37c6911b02657f2263334c2dd10b6/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ec213cbba61c877efe3f02c14b2102ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/ec213cbba61c877efe3f02c14b2102ae/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8b898f73af073b9936e4d64fc5509840/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8b898f73af073b9936e4d64fc5509840/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/44722418a0345d46805b7d3b482ca65b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/44722418a0345d46805b7d3b482ca65b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8a68715f8817381a7e0eec47600851da/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8a68715f8817381a7e0eec47600851da/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7f1c75c2c6e82e3165441efe0150b83c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/7f1c75c2c6e82e3165441efe0150b83c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f0ce4721c6a41d5cc4a80041310020de/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/f0ce4721c6a41d5cc4a80041310020de/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/08d7e5672e836dc7183e4ece063a82b4/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/08d7e5672e836dc7183e4ece063a82b4/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/687d2ed291d0a0afc1f1bc57a30bd052/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/687d2ed291d0a0afc1f1bc57a30bd052/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8d813afdac7dc3bace10db1d2c0cb74d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8d813afdac7dc3bace10db1d2c0cb74d/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:2:1-23:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

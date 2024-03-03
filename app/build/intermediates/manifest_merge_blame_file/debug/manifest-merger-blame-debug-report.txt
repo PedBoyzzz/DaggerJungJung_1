@@ -1,0 +1,154 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.testkotloin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+15-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:22:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+16-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:26:22-79
+18
+19    <application
+19-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:5:5-21:19
+20        android:name="com.example.testkotloin.MyApp"
+20-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:6:13-34
+21        android:allowBackup="true"
+21-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:7:13-39
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/74f867cb58c8236616b7cd674a47082a/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/ic_launcher"
+25-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:8:13-47
+26        android:label="@string/app_name"
+26-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:9:13-45
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:10:13-58
+28        android:supportsRtl="true"
+28-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:11:13-39
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:12:13-44
+31        <activity
+31-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:9-20:20
+32            android:name="com.example.testkotloin.MainActivity"
+32-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:19-47
+33            android:exported="true" >
+33-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:14:48-71
+34            <intent-filter>
+34-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:15:13-19:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:16:17-68
+35-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:16:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:18:17-76
+37-->/Users/niwat/Desktop/ยำ_Dagger/DaggerJungJung_1/app/src/main/AndroidManifest.xml:18:27-74
+38            </intent-filter>
+39        </activity>
+40        <!--
+41             FirebaseMessagingService performs security checks at runtime,
+42             but set to not exported to explicitly avoid allowing another app to call it.
+43        -->
+44        <service
+44-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+45            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+45-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+46            android:exported="false" >
+46-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+47            <intent-filter android:priority="-500" >
+47-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:13-33:29
+47-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:31:28-51
+48                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+48-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:17-78
+48-->[com.google.firebase:firebase-messaging:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/b47514759689d683ef869d889688f78c/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:32:25-75
+49            </intent-filter>
+50        </service>
+51        <service
+51-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+52            android:name="com.google.firebase.components.ComponentDiscoveryService"
+52-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:30:13-84
+53            android:exported="false" >
+53-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:31:13-37
+54            <meta-data
+54-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:32:13-34:85
+55                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+55-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:33:17-96
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:34:17-82
+57        </service>
+58
+59        <receiver
+59-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:37:9-44:20
+60            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+60-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:38:13-78
+61            android:exported="true"
+61-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:39:13-36
+62            android:permission="com.google.android.c2dm.permission.SEND" >
+62-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:40:13-73
+63            <intent-filter>
+63-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:41:13-43:29
+64                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+64-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:42:17-81
+64-->[com.google.firebase:firebase-iid:20.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/e4ba2f8718f3c3890d7ee2566cd88131/jetified-firebase-iid-20.0.0/AndroidManifest.xml:42:25-78
+65            </intent-filter>
+66        </receiver>
+67
+68        <provider
+68-->[com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+69            android:name="com.google.firebase.provider.FirebaseInitProvider"
+69-->[com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+70            android:authorities="com.example.testkotloin.firebaseinitprovider"
+70-->[com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+71            android:exported="false"
+71-->[com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+72            android:initOrder="100" />
+72-->[com.google.firebase:firebase-common:19.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/fc84c178ca7048e52c16b8a1f556be5e/jetified-firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/c778d6d33ed21c539e41cf6e094ddbbb/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:17.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/8fd5414130ac213c021abe7e932bd596/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+82
+83        <provider
+83-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+84            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+84-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+85            android:authorities="com.example.testkotloin.lifecycle-process"
+85-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+86            android:exported="false"
+86-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+87            android:multiprocess="true" />
+87-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/niwat/.gradle/caches/transforms-2/files-2.1/732a8f26e808df43a956cd598676ff7e/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+88    </application>
+89
+90</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="AndroidProject.app" target="1.8" />
+      <module name="AndroidProjectDagger2_2.16.app" target="1.8" />
+      <module name="AndroidProjectDagger2_2.16_ต้นแบบ.app" target="1.8" />
+      <module name="AndroidProjectDagger2_2.16_ต้นแบบ_2.app" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,63 @@
+com/example/testkotloin/PreferenceModule_ProvideMyClassFactory.java
+ com.example.testkotloin.PreferenceModule_ProvideMyClassFactory
+com/example/testkotloin/ViewModelFactory2_Factory.java
+ com.example.testkotloin.ViewModelFactory2_Factory
+com/example/testkotloin/Info_Factory.java
+ com.example.testkotloin.Info_Factory
+com/example/testkotloin/PreferenceModule_MeFactory.java
+ com.example.testkotloin.PreferenceModule_MeFactory
+com/example/testkotloin/MainActivityViewModel_Factory.java
+ com.example.testkotloin.MainActivityViewModel_Factory
+com/example/testkotloin/AppModule_Info3_Factory.java
+ com.example.testkotloin.AppModule_Info3_Factory
+com/example/testkotloin/Info2_Factory.java
+ com.example.testkotloin.Info2_Factory
+com/example/testkotloin/MyClass.java
+ com.example.testkotloin.MyClass
+com/example/testkotloin/BuildConfig.java
+ com.example.testkotloin.BuildConfig
+com/example/testkotloin/AwesomeManager2_Factory.java
+ com.example.testkotloin.AwesomeManager2_Factory
+com/example/testkotloin/HomeFragment_MembersInjector.java
+ com.example.testkotloin.HomeFragment_MembersInjector
+com/example/testkotloin/A_Factory.java
+ com.example.testkotloin.A_Factory
+com/example/testkotloin/InjectClass2_Factory.java
+ com.example.testkotloin.InjectClass2_Factory
+com/example/testkotloin/AppModule_Me2Factory.java
+ com.example.testkotloin.AppModule_Me2Factory
+com/example/testkotloin/PreferenceModule_GetMyClassFactory.java
+ com.example.testkotloin.PreferenceModule_GetMyClassFactory
+com/example/testkotloin/FragmentModule_ContributeHomeFragment.java
+ com.example.testkotloin.FragmentModule_ContributeHomeFragment
+ com.example.testkotloin.FragmentModule_ContributeHomeFragment$HomeFragmentSubcomponent
+ com.example.testkotloin.FragmentModule_ContributeHomeFragment$HomeFragmentSubcomponent$Builder
+com/example/testkotloin/PreferenceModule_ProvideAwesomeManager2Factory.java
+ com.example.testkotloin.PreferenceModule_ProvideAwesomeManager2Factory
+com/example/testkotloin/PreferenceModule_PiFactory.java
+ com.example.testkotloin.PreferenceModule_PiFactory
+com/example/testkotloin/PreferenceModule_ProvideUserContextFactory.java
+ com.example.testkotloin.PreferenceModule_ProvideUserContextFactory
+com/example/testkotloin/PreferenceModule_ProvideAwesomeManagerFactory.java
+ com.example.testkotloin.PreferenceModule_ProvideAwesomeManagerFactory
+com/example/testkotloin/M2_ProvideUserPreferenceFactory.java
+ com.example.testkotloin.M2_ProvideUserPreferenceFactory
+com/example/testkotloin/HomeFragment2_MembersInjector.java
+ com.example.testkotloin.HomeFragment2_MembersInjector
+com/example/testkotloin/ActivityModule_ContributeMainActivity.java
+ com.example.testkotloin.ActivityModule_ContributeMainActivity
+ com.example.testkotloin.ActivityModule_ContributeMainActivity$MainActivitySubcomponent
+ com.example.testkotloin.ActivityModule_ContributeMainActivity$MainActivitySubcomponent$Builder
+com/example/testkotloin/DaggerAppComponent.java
+ com.example.testkotloin.DaggerAppComponent
+ com.example.testkotloin.DaggerAppComponent$1
+ com.example.testkotloin.DaggerAppComponent$Builder
+ com.example.testkotloin.DaggerAppComponent$MainActivitySubcomponentBuilder
+ com.example.testkotloin.DaggerAppComponent$MainActivitySubcomponentImpl
+ com.example.testkotloin.DaggerAppComponent$MainActivitySubcomponentImpl$1
+ com.example.testkotloin.DaggerAppComponent$MainActivitySubcomponentImpl$HomeFragmentSubcomponentBuilder
+ com.example.testkotloin.DaggerAppComponent$MainActivitySubcomponentImpl$HomeFragmentSubcomponentImpl
+com/example/testkotloin/MyApp_MembersInjector.java
+ com.example.testkotloin.MyApp_MembersInjector
+com/example/testkotloin/MainActivity_MembersInjector.java
+ com.example.testkotloin.MainActivity_MembersInjector
